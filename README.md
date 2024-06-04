@@ -9,7 +9,7 @@ This repository includes code for generating a prime editing sensor library targ
     1. **fastq_join_cluster.sh** is the script for performing a fastq-join on paired reads on a slurm computing cluster
     2. **sensor_extraction.py** is the python script for counting pegRNAs, and sorting sensor sites into different fastq files based on their pegRNA identity. There is an associated slurm .sh script as well.
     3. **crispress_analysis.py** is the python script for performing running crispresso2 on each sensor site in each sample. There is an associated slurm .sh script as well.
-    4. **crispresso_analsysis_aggregation.py** is the script for aggregating the crispresso2 editing quantification into a single table for each sample.
+    4. **crispresso_analsysis_aggregation.py** is the script for aggregating the crispresso2 editing quantification into a single table for each sample. There is an associated slurm .sh script as well.
 
 3. **main_figure.ipynb** is a notebook for generating all of the main figure panels.
 4. **supplementary_figures.ipynb** is a notebook for generating all of the supplementary figures.
