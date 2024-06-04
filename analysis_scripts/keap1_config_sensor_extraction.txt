@@ -1,0 +1,17 @@
+ArrayTaskID R1_FILE folder_name
+1 ./fastq-join/D24-8256-6733T_join.fastq split_reads_by_pegRNA/D24-8256-6733T
+2 ./fastq-join/D24-8257-6733T_join.fastq split_reads_by_pegRNA/D24-8257-6733T
+3 ./fastq-join/D24-8258-6733T_join.fastq split_reads_by_pegRNA/D24-8258-6733T
+4 ./fastq-join/D24-8259-6733T_join.fastq split_reads_by_pegRNA/D24-8259-6733T
+5 ./fastq-join/D24-8260-6733T_join.fastq split_reads_by_pegRNA/D24-8260-6733T
+6 ./fastq-join/D24-8261-6733T_join.fastq split_reads_by_pegRNA/D24-8261-6733T
+7 ./fastq-join/D24-8262-6733T_join.fastq split_reads_by_pegRNA/D24-8262-6733T
+8 ./fastq-join/D24-8263-6733T_join.fastq split_reads_by_pegRNA/D24-8263-6733T
+9 ./fastq-join/D24-8264-6733T_join.fastq split_reads_by_pegRNA/D24-8264-6733T
+10 ./fastq-join/D24-8265-6733T_join.fastq split_reads_by_pegRNA/D24-8265-6733T
+11 ./fastq-join/D24-8266-6733T_join.fastq split_reads_by_pegRNA/D24-8266-6733T
+12 ./fastq-join/D24-8267-6733T_join.fastq split_reads_by_pegRNA/D24-8267-6733T
+13 ./fastq-join/D24-8268-6733T_join.fastq split_reads_by_pegRNA/D24-8268-6733T
+14 ./fastq-join/D24-8269-6733T_join.fastq split_reads_by_pegRNA/D24-8269-6733T
+15 ./fastq-join/D24-8270-6733T_join.fastq split_reads_by_pegRNA/D24-8270-6733T
+16 ./fastq-join/D24-8271-6733T_join.fastq split_reads_by_pegRNA/D24-8271-6733T
