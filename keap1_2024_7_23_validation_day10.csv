@@ -1,0 +1,21 @@
+,Sample,RFP+BFP+ Count,RFP+BFP+ %,GFP+ Count,GFP+ %
+Specimen_001_uncolored.fcs,Uncolored,0,0,0,0
+Specimen_001_untransduced_1.fcs,Untransduced,0,0,0,0
+Specimen_001_1a.fcs,A184G,7332,81.7,1172,16.0
+Specimen_001_1b.fcs,A184G,7406,81.7,1188,16.0
+Specimen_001_1c.fcs,A184G,7306,81.9,1110,15.2
+Specimen_001_3a.fcs,G186C,7937,89.0,370,4.66
+Specimen_001_3b.fcs,G186C,8007,88.6,524,6.54
+Specimen_001_3c.fcs,G186C,8084,89.9,599,7.41
+Specimen_001_6a.fcs,A184A,7727,82.2,230,2.98
+Specimen_001_6b.fcs,A184A,7730,81.9,223,2.88
+Specimen_001_6c.fcs,A184A,7927,83.7,207,2.61
+Specimen_001_7a.fcs,G186G,7562,80.6,163,2.16
+Specimen_001_7b.fcs,G186G,7637,79.9,190,2.49
+Specimen_001_7c.fcs,G186G,7748,80.5,179,2.31
+Specimen_001_9a.fcs,ST,8026,86.1,166,2.07
+Specimen_001_9b.fcs,ST,7947,84.6,169,2.13
+Specimen_001_9c.fcs,ST,7982,84.2,188,2.36
+Specimen_001_10a.fcs,NT,7468,85.0,288,3.86
+Specimen_001_10b.fcs,NT,7586,85.5,299,3.94
+Specimen_001_10c.fcs,NT,7683,85.6,267,3.48
